@@ -4,7 +4,7 @@ Play with up to 9 players in a snake2-brawl-em-up-achtung-the-curve manner. Cust
 ![screenshot](https://user-images.githubusercontent.com/1488903/75149350-0c87d100-5702-11ea-8ee1-2bc2634ffb3c.jpg)
 
 ## Dependencies
-## Python3
+### Python3
 https://www.python.org/downloads/release/python-381/
 ### pygame
 pip install pygame
