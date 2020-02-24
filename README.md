@@ -1,1 +1,9 @@
-# line_weaver
+# Line Weaver
+Play with up to 9 players in a snake2 brawl em up achtung the curve manner. Custom controls can be set for each player is was the case for achtung the curve. At the start of each round, each player's color is randomized. However, the first 1.5 seconds you are immortal. use this time to make yourself known! I also experimented a bit with sound, though this is probably going to get expanded in the future.
+
+## Dependencies
+### pygame
+pip install pygame
+
+## Launch the game
+python game_v1.1.py
